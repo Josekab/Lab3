@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string-array name="opciones_spinner">
+        <item>Credito</item>
+        <item>Debito</item>
+    </string-array>
+</resources>
